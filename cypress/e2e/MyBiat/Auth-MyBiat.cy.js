@@ -101,6 +101,8 @@ describe('example to-do app', () => {
         cy.log('Hello , Cypress is amazing :) ')
 
         cy.log('Hello world , Hello Cypress , Hello JavaScript ')
+
+        cy.log('testing Integration Cypress with Cloud Cypress and Github !! we will see another advantages soon  ')
   })
 
   
